@@ -10,7 +10,7 @@ A bit about Myself, I am <b>Keyur Malete</b> pursuing my <b>Computer Science Deg
 
  <h1><u><u></h1>
 
- - 🔭 I’m currently working on **Data Struture and Algorithms**
+ - 🔭 I’m currently working on **Data Struture and Algorithms with JavaScript**
 - 🌱 I’m currently learning **JavaScript, MERN stack(MongoDB, Express, React, Node)**
 - 👯 I’m looking to collaborate on **FrontEnd Development**
 - 👨‍💻 All of my projects are available at [https://github.com/devkeyur](https://github.com/devkeyur)
