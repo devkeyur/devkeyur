@@ -3,7 +3,7 @@
 <img width="30%" align="right" src="https://github.com/pathik455/pathik455/blob/main/image.gif" />
 
 <!-- Intro -->
-A bit about Myself, I am <b>Keyur Malete</b> pursuing my <b>Computer Science Degree</b> from Parul University, Currently in my Final-Year of BCA As of now, I am focused on <b>Web Development, App Development, and Designing</b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Keyur Malete</b> pursuing my <b>Computer Science Degree</b> from Parul University, Completed the BCA , I am focused on <b>Web Development, App Development, and Designing</b> but still, wish to explore many fields. ⚡
 
  <!-- <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=devkeyur&label=Profile%20views&color=0e75b6&style=flat" alt="Keyur Malete" /> </p></h3> -->
  <br></br>
