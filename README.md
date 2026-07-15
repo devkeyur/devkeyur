@@ -3,7 +3,7 @@
 <img width="30%" align="right" src="https://github.com/pathik455/pathik455/blob/main/image.gif" />
 
 <!-- Intro -->
-A bit about Myself, I am <b>Keyur Malete</b> pursuing my <b>Computer Science Degree</b> from Parul University, Completed the BCA , I am focused on <b>Web Development, App Development, and Designing</b> but still, wish to explore many fields. ⚡
+I have over 2+ years of experience in WordPress development, specializing in Elementor Pro, PHP, Advanced Custom Fields (ACF), Custom Post Types (CPT), HTML, CSS, JavaScript, responsive development, and website optimization. I've worked on multiple projects for international clients and enjoy building high-quality, scalable WordPress websites. ⚡
 
  <!-- <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=devkeyur&label=Profile%20views&color=0e75b6&style=flat" alt="Keyur Malete" /> </p></h3> -->
  <br></br>
